@@ -1,0 +1,5 @@
+- 👋 Hi, I’m CarlosLeandro
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Python and CyberSecurity
+- 💞️ I’m looking to collaborate on projects with python
+- 📫 How to reach me: Just saying hello 
